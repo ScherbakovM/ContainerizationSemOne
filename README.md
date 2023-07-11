@@ -40,11 +40,12 @@
 
  ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/dfd2d7a7-62e4-4c88-9a8d-d9f220cea7d7)
 
- ### теперь для смену необходимой директории всё необходимое есть 
+ ### теперь для смены корневой директории всё необходимое есть 
 
  Выполняем команду для смены директории 
 
 ``chroot GB /bin/bash``
+
 
  ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/88ba284f-d247-4c11-8a33-1badf0dbe843)
 
