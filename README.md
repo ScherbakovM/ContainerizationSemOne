@@ -33,7 +33,7 @@
 
 результат 
 
-`` linux-vdso.so.1 (0x00007ffc34b62000)``
+`` linux-vdso.so.1 (0x00007ffc34b62000)``  
 ``libtinfo.so.6 => /lib/x86_64-linux-gnu/libtinfo.so.6 (0x00007f7a58157000)``
 ``libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7a57e00000)``  
 ``/lib64/ld-linux-x86-64.so.2 (0x00007f7a582fb000) ``
