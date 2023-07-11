@@ -49,6 +49,24 @@
 
  ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/88ba284f-d247-4c11-8a33-1badf0dbe843)
 
+ ### Сетевое пространство имен
+
+## Создание новой папки для сетевого пространства 
+
+ ``ip netns add testns``
+ 
+## Создаём само пространство
+
+ ``ip netns exec testns bash``
+
+Вывести ip нового пространства 
+
+``ip a``
+ 
+![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/318ef84f-e842-49c3-97aa-bee8ea0ae20d)
+
+
+
 
 
 
