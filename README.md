@@ -1,4 +1,4 @@
-![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/4ec4263f-42d2-46bd-91ee-85d587f3e407)# ContainerizationSemOne
+# ContainerizationSemOne
 
 Команды выполняюся от имени суперпользователя
 ### Смена корневой директории 
