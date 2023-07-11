@@ -65,6 +65,16 @@
  
 ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/318ef84f-e842-49c3-97aa-bee8ea0ae20d)
 
+## Создание пространства имён через unshare
+
+в параметры unshare передаём то что мы хотим изолировать
+
+``unshare --net --pid --fork --mount-proc /bin/bash``
+
+
+![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/644610d7-34c5-4689-ba06-e787aa50db34)
+
+
 
 
 
