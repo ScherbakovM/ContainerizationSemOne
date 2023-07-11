@@ -34,9 +34,9 @@
 результат 
 
 `` linux-vdso.so.1 (0x00007ffc34b62000)  
-  libtinfo.so.6 => /lib/x86_64-linux-gnu/libtinfo.so.6 (0x00007f7a58157000)
-  libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7a57e00000)
-  /lib64/ld-linux-x86-64.so.2 (0x00007f7a582fb000)``
+libtinfo.so.6 => /lib/x86_64-linux-gnu/libtinfo.so.6 (0x00007f7a58157000)  
+libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f7a57e00000)  
+/lib64/ld-linux-x86-64.so.2 (0x00007f7a582fb000)  ``
 
  ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/dfd2d7a7-62e4-4c88-9a8d-d9f220cea7d7)
 
