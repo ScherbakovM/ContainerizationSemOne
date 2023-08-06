@@ -9,6 +9,7 @@
 
 ```
 mkdir GB
+
 ```
 
 ![image](https://github.com/ScherbakovM/ContainerizationSemOne/assets/109952823/4fc30aad-1fed-4225-8e0b-71b6212b1713)
